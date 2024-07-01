@@ -2,7 +2,7 @@
 **Home automation using AVR Atmega32 microcontroller**
 
 **AVR ATMEGA32 CODE**
-'''
+
 #include <avr/io.h>
 #define F_CPU 16000000UL
 #include <util/delay.h>
@@ -126,4 +126,3 @@ int main(void)
 	 
 	 return 0;
 }
-'''
